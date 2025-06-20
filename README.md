@@ -1,4 +1,5 @@
-# Thesis_Project - Location Inference for Biodiversity Collections: Geocoding Specimen Records from Unstructured Text Using Transformer Models
+# Thesis Project
+Location Inference for Biodiversity Collections: Geocoding Specimen Records from Unstructured Text Using Transformer Models
 
 📘 data_preparation.ipynb: data is prepared from raw json file and preprocess into an actionable df. Filtered out non reelvant clumsn and extracted fields from nested column dictionaries. Viusalization on a mpa of coordinates data points. Construction of pseudosentences. 
 
