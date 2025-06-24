@@ -16,6 +16,13 @@ Fine-tuned models results are stored in google drive: https://drive.google.com/d
 
 --------
 
+-------
+
+#### Spatial Partitioning
+A dataframe with adaptive s2 cells partion is collected in adaptive_s2_cells folder of the repository
+
+--------
+
 #### Code Structure 
 The code is structured in relevant notebooks. A description of each notebook's content is given below. 
 
