@@ -7,9 +7,14 @@ This repository contains the code, data processing scripts, model configurations
 ------
 
 #### Dataset 
-The original data is obtained by Naturalis Biodiversity Center and contains around 3.5 million digital specimens objects. A partition of the data has been adopted for this reserach fo around 1 million records. Data is stored locally due to significant file size. 
+The original data is obtained by Naturalis Biodiversity Center and contains around 3.5 million digital specimens objects. A partition of the data has been adopted for this reserach for around 1 million records. Data is stored locally due to significant file size. 
 
 -------
+
+#### Models 
+Fine-tuned models results are stored in google drive
+
+--------
 
 #### Code Structure 
 The code is structured in relevant notebooks. A description of each notebook's content is given below. 
