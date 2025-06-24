@@ -12,7 +12,7 @@ The original data is obtained by Naturalis Biodiversity Center and contains arou
 -------
 
 #### Models 
-Fine-tuned models results are stored in google drive
+Fine-tuned models results are stored in google drive: https://drive.google.com/drive/folders/1jVq5TXqc28N5FhSXc_2cFr0j_j7FfJfR?usp=sharing
 
 --------
 
@@ -33,6 +33,5 @@ The code is structured in relevant notebooks. A description of each notebook's c
 
 -----
 
-#### Output Models 
-Fine-tuned models have been stored locally due to significant file sizes. 
+
 
